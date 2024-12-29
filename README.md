@@ -1,1 +1,1 @@
-[Project 1: Python For Beginner](https://github.com/Chase-Yi/Python-For-Beginners)
+[Project 1: Python For Beginners](https://github.com/Chase-Yi/Python-For-Beginners)
